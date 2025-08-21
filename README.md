@@ -1,4 +1,3 @@
-[index.html](https://github.com/user-attachments/files/21908417/index.html)
 <!DOCTYPE html>
 <html lang="en">
 
@@ -882,4 +881,3 @@
 </body>
 
 </html>
-
